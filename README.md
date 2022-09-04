@@ -1,3 +1,6 @@
+- Just Trying out TinyTapeout - Go to https://tinytapeout.com for instructions!
+</br>
+
 # 2-Bit Adder, Multiplier and Comparator
 
 - This Logic Design mainly contains an 2-bit Adder and a 2-bit Mutliplier.
@@ -13,7 +16,3 @@
 ![gds_render](https://user-images.githubusercontent.com/84563214/188326515-eec373c3-b434-4543-a390-9b3675d59678.svg)
  
 
-</br></br>
-
-## Instructions
-Go to https://tinytapeout.com for instructions!
